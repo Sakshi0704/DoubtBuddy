@@ -5,7 +5,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-16.x-green)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)](https://www.mongodb.com/)
 
-**DoubtBuddy** is a comprehensive full-stack web application designed to bridge the gap between students and tutors. Students can post their academic doubts and get expert help from qualified tutors in real-time, creating an interactive learning environment.
+**DoubtBuddy** is a comprehensive full-stack web application designed to bridge the gap between students and tutors. Students can post their academic doubts, get expert help from qualified tutors, and access instant AI assistance for quick questions, creating an interactive learning environment.
 
 🌐 **Live Application**: [DoubtBuddy App](https://doubtbuddy-iota.vercel.app/)
 
@@ -16,6 +16,7 @@
 DoubtBuddy is an educational platform that facilitates seamless interaction between students and tutors:
 
 - **Students** can register, post academic questions (doubts), and receive expert guidance
+- **AI-Powered Assistance** provides instant help through DoubtBuddy AI chat for quick questions
 - **Tutors** can view available questions, provide detailed responses, and track their performance
 - **Real-time engagement** through comments, ratings, and feedback systems
 - **Role-based access control** ensuring appropriate permissions for different user types
@@ -36,6 +37,7 @@ DoubtBuddy is an educational platform that facilitates seamless interaction betw
 - **Post Doubts**: Submit questions with detailed descriptions
 - **Track Progress**: Monitor status of posted questions
 - **Interactive Comments**: Engage with tutors through comment threads
+- **AI Chat Assistant**: Get instant help through DoubtBuddy AI for quick questions
 - **Rate Responses**: Provide feedback on tutor answers
 - **Personal Dashboard**: View all submitted doubts and their status
 
@@ -50,6 +52,7 @@ DoubtBuddy is an educational platform that facilitates seamless interaction betw
 - **JWT Authentication**: Secure token-based user sessions
 - **Role-based Access**: Different interfaces for students and tutors
 - **Protected Routes**: Secure pages requiring authentication
+- **AI Chat Assistant**: Built-in AI chatbot for instant doubt resolution
 - **Responsive Design**: Works seamlessly across devices
 - **Real-time Updates**: Dynamic content updates without page refresh
 
