@@ -46,7 +46,7 @@ This is a React-based web application that allows students to post their doubts 
    ```powershell
    npm start
    ```
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+4. Open [DoubtBuddy](https://doubtbuddy-iota.vercel.app/) in your browser.
 
 ## Requirements
 - Node.js and npm installed
